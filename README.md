@@ -6,3 +6,18 @@ Analysis of Vancouver crimes recorded from 2013 to 2019
 
 
 ### Quick breakdown with some visualizations
+### Crime by time:
+1. Year
+
+2. Month
+
+3. Day
+
+4. Hour
+
+### Crime by location:
+1. Street Block
+
+2. Neighbour
+
+3. Latitude and Longtitude: 
