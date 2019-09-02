@@ -4,6 +4,8 @@ Analysis of Vancouver crimes recorded from 2013 to 2019.
 
 ![](./Visualizations/heatmap_crimes_in_west_end_2019.png)
 
+### Dataset description:
+The dataset is collected from the City of Vancouver Open Data Catalogue.
 
 ### Quick breakdown with some visualizations
 ### Crime by time:
