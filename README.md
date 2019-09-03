@@ -60,4 +60,7 @@ West End is the most dangerours neighbourhood in Vancouver. The crimes recorded 
 ![crime in West End 2003-2019](./Visualizations/crimes_xy_2003.png)
 ![crime in West End 2003-2019](./Visualizations/crimes_xy_2019.png)
 
+![crime in West End 2003-2019 treemap](./Visualizations/treemap_westend.png)
+From a treemap, we can see the most common crime in West End is "Theft from vehicle". 
+
 3. Latitude and Longtitude: 
