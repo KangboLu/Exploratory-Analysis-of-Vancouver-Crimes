@@ -30,7 +30,7 @@ It appears that the most common type of is associated with vehicle in Vancouver:
 
 From the above trendline, we can see the number of crime categorized as "Theft from Vehicle" indeed dropped twice from 2004 to 2011 and from 2018 to 2019. There is least number of "Theft from Vehicle" in 2011.
 
-## When is the popular recorded month, day, and hour of "Theft from Vehicle" crime in a day?
+### When is the popular recorded month, day, and hour of "Theft from Vehicle" crime in a day?
 #### 2. Month: "Theft from Vehicle" crime counted by month:
 
 ![crime count by month](./Visualizations/barchart_theft_from_vehicle_by_month.png)
