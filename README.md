@@ -29,25 +29,35 @@ From the above trendline, we can see the number of crime categorized as "Theft f
 
 ## When is the popular recorded month, day, and hour of "Theft from Vehicle" crime in a day?
 2. Month: "Theft from Vehicle" crime counted by month:
-![count_of_each_crime](./Visualizations/barchart_theft_from_vehicle_by_month.png)
+![crime count by month](./Visualizations/barchart_theft_from_vehicle_by_month.png)
 
 The value doesn't fluctuate a lot. January has the highest number of "Theft from Vehicle" crime in Vancouver. It turns out each month has quite similar number of "Theft from Vehicle" crime happening in Vancouver from 2003 to 2019.
 
 3. Day: "Theft from Vehicle" crime counted by day:
-![count_of_each_crime](./Visualizations/barchart_theft_from_vehicle_by_day.png)
+![crime count by day](./Visualizations/barchart_theft_from_vehicle_by_day.png)
 
 The bar chart shows similar observations comparing to the count by month except there exists a trend of decreasing number of recorded crime from the 1st day of a month to the end of a month.
 This trend can be caused by sampling bias. There are witness-reported crime and police-spotted crime. Maybe, police officers just happened to be go out more often during the beginning of the month and spotted more crimes? We don't know the cause.
 If they can record how crimes are discovered, it would be very helpful.
 
 4. Hour: "Theft from Vehicle" crime counted by hour:
-![count_of_each_crime](./Visualizations/barchart_theft_from_vehicle_by_hour.png)
+![crime count by hour](./Visualizations/barchart_theft_from_vehicle_by_hour.png)
 
 From the above chart, we can observe that it became unsafe to park your car in Vancouver in the afternoon or at night. The top 10 counted hour of "Theft from Vehicle" crime happened after 12 PM.
 
 ### Crime by location:
-1. Street Block
+1. Street Block: What are the top 10 crime populated block based on crime data?
+![crime in different blocks](./Visualizations/barchart_crime_by_block_without_offset.png)
 
-2. Neighbour
+Granville street is the most crime-populated street based on the crime record.
+
+2. Neighbour:
+![crime in different neighbourhood](./Visualizations/barchart_most_dangerous_neighbourhood.png)
+
+West End is the most dangerours neighbourhood in Vancouver. The crimes recorded in West End can draw a complete map of the neighbourhood using data from 2003 to 2019.
+
+![crime in West End 2003-2019](./Visualizations/crimes_xy_2003_2019.png)
+![crime in West End 2003-2019](./Visualizations/crimes_xy_2003.png)
+![crime in West End 2003-2019](./Visualizations/crimes_xy_2019.png)
 
 3. Latitude and Longtitude: 
